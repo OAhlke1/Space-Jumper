@@ -25,4 +25,4 @@ My other links:
 
 ## Screenshots
 
-![App Screenshot](http://localhost:4200/assets/images/space-jumper.png)
+![App Screenshot](https://oscar-ahlke.de/assets/images/space-jumper.png)
