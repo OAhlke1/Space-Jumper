@@ -1,6 +1,6 @@
 # Space-Jumper
 
-Space-Jumper is a Jump'n'run game in which you have to find 3 crystal-fragments to defeat the main boss.
+Space-Jumper is a Jump'n'run browser-game in which you have to find 3 crystal-fragments to defeat the main boss.
 
 ## Authors
 
@@ -17,6 +17,11 @@ Other Links:
 ## Screenshots
 
 ![App Screenshot](http://localhost:4200/assets/images/space-jumper.png)
-## Used By
 
+## Used By
 Tested only privatly.
+
+## Languages:
+-HTML
+-CSS
+-JavaScript
