@@ -19,7 +19,7 @@ Tested only privatly.
 Hi, I am Oscar!
 I'm a frontend developer from Germany specializing in HTML, CSS, JavaScript, Angular but I also know the basics of C++ and Java.
 
-Other Links:
+My other links:
 - [portfolio](https://oscar-ahlke.de)
 - [linkedin](https://de.linkedin.com/in/oscar-ahlke-949a64320)
 
